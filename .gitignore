@@ -1,0 +1,5 @@
+film.sqlite3
+*.txt
+**/*.pyc
+db.sqlite3
+film_search\static\ckplayer (1).zip
